@@ -69,25 +69,6 @@ I have experience working with **Node.js, Express.js, React.js, Java, PHP, Larav
 
 <br/>
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⏱️ TimeScale</h3>
-      <p align="center">Enterprise platform for managing interviews, meetings, and tasks with real-time updates</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Company%20Project-00ADB5?style=for-the-badge"/>
-      </p>
-      <p><strong>Key Contributions:</strong></p>
-      <ul>
-        <li>Developed REST APIs for interview, meeting, and task management</li>
-        <li>Implemented real-time updates using Laravel Reverb and broadcasting</li>
-        <li>Worked on live meeting and task status updates</li>
-      </ul>
-      <p align="center"><strong>Laravel · Laravel Reverb · Broadcasting · React.js</strong></p>
-    </td>
-
 ```
 <td width="50%">
   <h3 align="center">🏦 Banking Application</h3>
