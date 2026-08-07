@@ -65,19 +65,7 @@ I have experience working with **Node.js, Express.js, React.js, Java, PHP, Larav
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge\&logo=bitbucket\&logoColor=white)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 ```
-<td width="50%">
-  <h3 align="center">💡 Engineering Focus</h3>
-  <p align="center">Building practical and maintainable software solutions</p>
-  <br/>
-  <ul>
-    <li>REST API development</li>
-    <li>Backend engineering</li>
-    <li>Full-stack development</li>
-    <li>Production debugging</li>
-    <li>Unit testing</li>
-    <li>Database-driven applications</li>
-  </ul>
-</td>
+
 ```
 
   </tr>
@@ -105,9 +93,7 @@ I have experience working with **Node.js, Express.js, React.js, Java, PHP, Larav
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Eswaran80&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Eswaran's GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eswaran80&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 
 <br/><br/>
 
