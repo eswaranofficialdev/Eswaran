@@ -89,24 +89,6 @@ I have experience working with **Node.js, Express.js, React.js, Java, PHP, Larav
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eswaran80&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eswaran80&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
-<br/>
-
 ## 🎓 Education
 
 ### B.E. — Computer Science and Engineering
