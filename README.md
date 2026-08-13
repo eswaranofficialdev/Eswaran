@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://eswaranportfoliov2.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/eswaran-s-7a3b15320)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Eswaran80)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/eswaranofficialdev/Eswaran)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:eswarane499@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Eswaran80\&color=00ADB5\&style=for-the-badge\&label=PROFILE+VIEWS)
